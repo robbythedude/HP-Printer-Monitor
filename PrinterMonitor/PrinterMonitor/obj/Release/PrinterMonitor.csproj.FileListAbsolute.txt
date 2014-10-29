@@ -1,0 +1,10 @@
+E:\Stuff\PrinterMonitor\PrinterMonitor\PrinterMonitor\bin\Release\PrinterMonitor.exe.config
+E:\Stuff\PrinterMonitor\PrinterMonitor\PrinterMonitor\bin\Release\PrinterMonitor.exe
+E:\Stuff\PrinterMonitor\PrinterMonitor\PrinterMonitor\bin\Release\PrinterMonitor.pdb
+E:\Stuff\PrinterMonitor\PrinterMonitor\PrinterMonitor\obj\Release\PrinterMonitor.csprojResolveAssemblyReference.cache
+E:\Stuff\PrinterMonitor\PrinterMonitor\PrinterMonitor\obj\Release\PrinterMonitor.Main.resources
+E:\Stuff\PrinterMonitor\PrinterMonitor\PrinterMonitor\obj\Release\PrinterMonitor.PrinterViewer.resources
+E:\Stuff\PrinterMonitor\PrinterMonitor\PrinterMonitor\obj\Release\PrinterMonitor.Properties.Resources.resources
+E:\Stuff\PrinterMonitor\PrinterMonitor\PrinterMonitor\obj\Release\PrinterMonitor.csproj.GenerateResource.Cache
+E:\Stuff\PrinterMonitor\PrinterMonitor\PrinterMonitor\obj\Release\PrinterMonitor.exe
+E:\Stuff\PrinterMonitor\PrinterMonitor\PrinterMonitor\obj\Release\PrinterMonitor.pdb
