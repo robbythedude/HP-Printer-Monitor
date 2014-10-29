@@ -1,0 +1,16 @@
+-#- This file contains all printers on the network to be monitored
+-#- Plus, this file contains the names of computer that should auto-scan on startup
+-#- The symbol '-#-' can be used to start comments
+-#- The symbol '--[]--' is used to separate printers from workstation computers and must be placed after the printer list
+
+-#- Format
+-#- Printer Name, Printer IP, Printer Building
+
+New Printer, 127.0.0.1, Work House
+
+--[]--
+
+-#- Format
+-#-Computer Name, Building to default monitor
+
+YourPC, Work House
