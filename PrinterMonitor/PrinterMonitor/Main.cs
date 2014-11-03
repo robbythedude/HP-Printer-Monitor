@@ -1,5 +1,4 @@
-﻿//Penn State Behrend Live Printer Monitor
-//This application is developed to monitor printers around the campus to check for paper shortages and errors
+﻿//This application is developed to monitor printers around the the network to check for paper shortages and errors
 //Created by: Robert E. Steiner III (res5304/968685984)
 //Created on: 10/15/14
 //Modified by:
@@ -141,6 +140,8 @@ namespace PrinterMonitor
                             this.WindowState = FormWindowState.Normal;
                             this.Activate();
                         });
+                    textboxPrompt.ScrollToCaret();//Force focus to autoscroll with output
+                    textboxPrompt.Refresh();
                 }
 
                 hasCriticalHappened = false;  //Reset critical for next scan

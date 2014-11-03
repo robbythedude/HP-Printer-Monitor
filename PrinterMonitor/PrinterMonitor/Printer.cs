@@ -36,6 +36,7 @@ namespace PrinterMonitor
             return name;
         }
 
+        //Returns the building name
         public string getBuildingName()
         {
             return buildingName;
